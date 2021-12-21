@@ -1,0 +1,126 @@
+Age,Height,Weight,BMI,Face Amount,Health Status,Smoking Status,Status
+77.0,78.0,220.0,25.42,200000.0,Slightly below average,NonSmoker,Disqualified
+60.0,75.0,325.0,40.62,100000.0,Well below average,Smoker,Disqualified
+59.0,75.0,275.0,34.37,200000.0,Well below average,NonSmoker,Qualified
+75.0,75.0,225.0,28.12,100000.0,Average,NonSmoker,Disqualified
+61.0,74.0,220.0,28.24,350000.0,Average,NonSmoker,Disqualified
+58.0,74.0,200.0,25.68,500000.0,Terminal,NonSmoker,Disqualified
+77.0,74.0,160.0,20.54,50000.0,Well below average,Smoker,Disqualified
+62.0,73.0,245.0,32.32,250000.0,Average,NonSmoker,Disqualified
+61.0,73.0,235.0,31.0,500000.0,Average,NonSmoker,Disqualified
+76.0,73.0,170.0,22.43,250000.0,Average,NonSmoker,Disqualified
+61.0,72.0,280.0,37.97,100000.0,Average,Smoker,Disqualified
+65.0,72.0,220.0,29.83,250000.0,Above average,NonSmoker,Disqualified
+75.0,72.0,250.0,33.9,250000.0,Well below average,NonSmoker,Disqualified
+75.0,72.0,205.0,27.8,250000.0,Average,NonSmoker,Disqualified
+60.0,72.0,195.0,26.44,200000.0,Average,NonSmoker,Disqualified
+70.0,72.0,153.0,20.75,100000.0,Well below average,NonSmoker,Qualified
+62.0,72.0,200.0,27.12,200000.0,Average,Smoker,Disqualified
+71.0,72.0,290.0,39.33,200000.0,Average,NonSmoker,Disqualified
+69.0,72.0,250.0,33.9,250000.0,Above average,NonSmoker,Disqualified
+62.0,72.0,260.0,35.26,125000.0,Average,NonSmoker,Disqualified
+61.0,71.0,210.0,29.29,750000.0,Slightly below average,NonSmoker,Disqualified
+65.0,71.0,250.0,34.86,150000.0,Above average,NonSmoker,Disqualified
+72.0,71.0,250.0,34.86,250000.0,Well below average,NonSmoker,Disqualified
+75.0,71.0,200.0,27.89,300000.0,Slightly below average,Smoker,Disqualified
+85.0,71.0,238.0,33.19,100000.0,Average,Smoker,Qualified
+71.0,71.0,210.0,29.29,100000.0,Well below average,NonSmoker,Disqualified
+63.0,71.0,160.0,22.31,100000.0,Average,Smoker,Disqualified
+62.0,71.0,235.0,32.77,300000.0,Average,NonSmoker,Disqualified
+73.0,71.0,290.0,40.44,400000.0,Above average,NonSmoker,Disqualified
+60.0,71.0,218.0,30.4,100000.0,Average,NonSmoker,Disqualified
+64.0,71.0,220.0,30.68,100000.0,Average,NonSmoker,Disqualified
+56.0,70.0,190.0,27.26,50000.0,Average,Smoker,Disqualified
+79.0,70.0,200.0,28.69,100000.0,Average,NonSmoker,Disqualified
+73.0,70.0,200.0,28.69,100000.0,Above average,NonSmoker,Disqualified
+89.0,70.0,150.0,21.52,600000.0,Average,NonSmoker,Disqualified
+75.0,70.0,194.0,27.83,100000.0,Average,Smoker,Disqualified
+66.0,70.0,265.0,38.02,100000.0,Well below average,NonSmoker,Disqualified
+70.0,70.0,190.0,27.26,100000.0,Above average,NonSmoker,Disqualified
+87.0,70.0,165.0,23.67,300000.0,Above average,Smoker,Qualified
+65.0,70.0,185.0,26.54,200000.0,Above average,NonSmoker,Disqualified
+64.0,70.0,207.0,29.7,100000.0,Average,NonSmoker,Disqualified
+65.0,70.0,240.0,34.43,200000.0,Average,NonSmoker,Disqualified
+74.0,70.0,153.0,21.95,223413.0,Above average,NonSmoker,Qualified
+74.0,69.0,220.0,32.48,400000.0,Above average,NonSmoker,Qualified
+63.0,69.0,329.0,48.58,150000.0,Average,NonSmoker,Disqualified
+79.0,69.0,207.0,30.57,250000.0,Slightly below average,NonSmoker,Disqualified
+67.0,69.0,223.0,32.93,350000.0,Slightly below average,NonSmoker,Disqualified
+75.0,69.0,235.0,34.7,1000000.0,Slightly below average,Smoker,Qualified
+76.0,69.0,205.0,30.27,100000.0,Average,NonSmoker,Disqualified
+55.0,69.0,271.0,40.02,180000.0,Average,Smoker,Disqualified
+77.0,69.0,155.0,22.89,120000.0,Average,NonSmoker,Disqualified
+75.0,69.0,195.0,28.79,110000.0,Above average,NonSmoker,Disqualified
+70.0,68.0,145.0,22.04,125000.0,Average,NonSmoker,Disqualified
+63.0,68.0,165.0,25.09,100000.0,Average,NonSmoker,Disqualified
+62.0,68.0,178.0,27.06,250000.0,Slightly below average,NonSmoker,Disqualified
+64.0,68.0,180.0,27.37,100000.0,Above average,NonSmoker,Disqualified
+66.0,68.0,235.0,35.73,200000.0,Well below average,NonSmoker,Qualified
+59.0,68.0,185.0,28.13,160000.0,Average,NonSmoker,Disqualified
+73.0,68.0,180.0,27.37,542000.0,Above average,NonSmoker,Qualified
+80.0,68.0,180.0,27.37,100000.0,Average,NonSmoker,Disqualified
+73.0,68.0,185.0,28.13,450000.0,Well below average,NonSmoker,Qualified
+64.0,68.0,153.0,23.26,200000.0,Average,NonSmoker,Disqualified
+73.0,68.0,210.0,31.93,150000.0,Above average,NonSmoker,Disqualified
+61.0,67.0,135.0,21.14,200000.0,Well below average,NonSmoker,Disqualified
+71.0,67.0,220.0,34.45,100000.0,Average,NonSmoker,Disqualified
+83.0,67.0,159.0,24.9,75000.0,Above average,NonSmoker,Disqualified
+79.0,67.0,170.0,26.62,100000.0,Above average,NonSmoker,Disqualified
+67.0,67.0,190.0,29.75,150000.0,Average,NonSmoker,Disqualified
+73.0,67.0,160.0,25.06,500000.0,Average,NonSmoker,Disqualified
+71.0,67.0,190.0,29.75,100000.0,Slightly below average,NonSmoker,Disqualified
+81.0,67.0,180.0,28.19,100000.0,Slightly below average,NonSmoker,Qualified
+80.0,66.0,160.0,25.82,100000.0,Average,NonSmoker,Qualified
+63.0,66.0,217.0,35.02,250000.0,Average,NonSmoker,Disqualified
+65.0,66.0,230.0,37.12,10000.0,Average,NonSmoker,Disqualified
+68.0,66.0,200.0,32.28,175000.0,Average,NonSmoker,Disqualified
+70.0,66.0,115.0,18.56,250000.0,Above average,NonSmoker,Disqualified
+74.0,66.0,134.0,21.63,100000.0,Well below average,Smoker,Disqualified
+71.0,66.0,185.0,29.86,100000.0,Above average,NonSmoker,Disqualified
+67.0,66.0,175.0,28.24,100000.0,Above average,NonSmoker,Disqualified
+75.0,66.0,185.0,29.86,100000.0,Average,NonSmoker,Disqualified
+62.0,66.0,110.0,17.75,100000.0,Average,Smoker,Disqualified
+74.0,66.0,135.0,21.79,150000.0,Average,NonSmoker,Disqualified
+79.0,66.0,180.0,29.05,200000.0,Slightly below average,NonSmoker,Qualified
+60.0,65.0,170.0,28.29,113000.0,Above average,NonSmoker,Disqualified
+67.0,65.0,129.0,21.46,100000.0,Above average,NonSmoker,Disqualified
+71.0,65.0,158.0,26.29,150000.0,Above average,NonSmoker,Disqualified
+58.0,65.0,156.0,25.96,100000.0,Slightly below average,NonSmoker,Disqualified
+61.0,65.0,130.0,21.63,100000.0,Above average,NonSmoker,Disqualified
+65.0,65.0,120.0,19.97,500000.0,Well below average,Smoker,Disqualified
+77.0,65.0,160.0,26.62,130000.0,Slightly below average,NonSmoker,Disqualified
+61.0,64.0,118.0,20.25,150000.0,Above average,NonSmoker,Disqualified
+63.0,64.0,135.0,23.17,195000.0,Above average,NonSmoker,Disqualified
+68.0,64.0,180.0,30.89,105000.0,Average,NonSmoker,Disqualified
+60.0,64.0,126.0,21.63,100000.0,Average,Smoker,Disqualified
+52.0,64.0,150.0,25.74,98000.0,Slightly below average,NonSmoker,Disqualified
+75.0,64.0,176.0,30.21,100000.0,Above average,NonSmoker,Disqualified
+74.0,64.0,160.0,27.46,200000.0,Slightly below average,NonSmoker,Qualified
+74.0,64.0,180.0,30.89,50000.0,Terminal,NonSmoker,Disqualified
+62.0,64.0,160.0,27.46,460000.0,Average,NonSmoker,Disqualified
+77.0,64.0,133.0,22.83,100000.0,Average,NonSmoker,Disqualified
+72.0,64.0,135.0,23.17,275000.0,Average,NonSmoker,Qualified
+62.0,64.0,176.0,30.21,100000.0,Average,NonSmoker,Disqualified
+75.0,64.0,205.0,35.18,200000.0,Above average,NonSmoker,Disqualified
+69.0,64.0,150.0,25.74,750000.0,Well below average,NonSmoker,Disqualified
+75.0,64.0,155.0,26.6,100000.0,Average,NonSmoker,Disqualified
+72.0,63.0,150.0,26.57,291840.0,Above average,NonSmoker,Qualified
+69.0,63.0,175.0,31.0,100000.0,Average,NonSmoker,Disqualified
+78.0,63.0,140.0,24.8,100000.0,Above average,Smoker,Disqualified
+72.0,63.0,200.0,35.42,100000.0,Average,NonSmoker,Disqualified
+75.0,63.0,150.0,26.57,450000.0,Average,NonSmoker,Disqualified
+77.0,62.0,180.0,32.92,100000.0,Average,NonSmoker,Disqualified
+100.0,62.0,98.0,17.92,118000.0,Well below average,NonSmoker,Qualified
+67.0,62.0,180.0,32.92,110000.0,Average,NonSmoker,Disqualified
+67.0,62.0,157.0,28.71,120000.0,Above average,NonSmoker,Disqualified
+60.0,62.0,210.0,38.41,100000.0,Average,NonSmoker,Disqualified
+67.0,62.0,140.0,25.6,190000.0,Above average,NonSmoker,Disqualified
+67.0,62.0,195.0,35.66,150000.0,Slightly below average,NonSmoker,Disqualified
+81.0,62.0,165.0,30.18,250000.0,Average,NonSmoker,Disqualified
+63.0,62.0,110.0,20.12,100000.0,Above average,NonSmoker,Disqualified
+64.0,62.0,230.0,42.06,100000.0,Average,NonSmoker,Disqualified
+85.0,61.0,189.0,35.71,100000.0,Average,NonSmoker,Qualified
+71.0,61.0,115.0,21.73,250000.0,Above average,NonSmoker,Disqualified
+63.0,61.0,180.0,34.01,165000.0,Average,NonSmoker,Disqualified
+81.0,61.0,165.0,31.17,240000.0,Average,NonSmoker,Qualified
+75.0,60.0,140.0,27.34,200000.0,Slightly below average,NonSmoker,Qualified
